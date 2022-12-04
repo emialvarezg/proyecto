@@ -8,4 +8,4 @@ La primera versión utiliza una gráfica con aristas aleatrias sobre la cual hac
 el vértice más visitado.
 
 En la segunda versión se toma la gráfica completa determinada por el conjunto de artistas, se define la misma caminata aleatoria que en la 
-primera versión y se aproxima su distribución estacionaria. Cada recomendación es una muestra de la distribución estacionaria.
+primera versión y se aproxima su distribución estacionaria. Cada recomendación es una muestra de dicha distribución.
